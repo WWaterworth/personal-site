@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+h3 {
+    font-family: 'Estonia';
+    font-size: 30px;
+    text-align: center;
+}
+
+main {
+    size: 0 auto;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 15px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    top: 0;
+}
+
+.name {
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+
+}
+
+.links {
+    font-size: 25px;
+    padding-right: 15px;
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
